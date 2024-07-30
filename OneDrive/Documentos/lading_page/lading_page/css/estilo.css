@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+body{
+    font-size: 16px;
+   background-color: rgb(135, 193, 248);
+}
+
+#navegacao {
+    background-image: linear-gradient(hsl(205,70%,80%),hsl(25,40%,80%));
+}
+
+img{
+    width: 20%;
+    height: 20%;
+}
+#area_menu {
+    width: 1220px;
+}
+#menu {
+    float: right;
+    padding: 20px 0;
+}
+#menu a:visited {
+    color: rgb(3, 3, 3);
+}
+
+#menu a:link {
+    color: rgb(12, 20, 20);
+}
+
+#menu a {
+    text-decoration: nome;
+    padding: 5px;
+}
+
+#menu a:hover {
+    color: #213b5e;
+    background-color: #91c3ec;
+}
+
+
+
+
